@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB,SPIDER'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: SANTIAGO
+    family-names: LOPEZ
+    email: L22212260@TECTIJUANA.EDU.MX
+    affiliation: TecNM-ITT
+repository-code: 'https://github.com/Santiagolopezlopez/Practica1MSF'
+keywords:
+  - CIRCUITO RLC
+  - CONTROLADOR PID
+  - SISTEMA RESPIRATORIO
+  - MODELO MATEMATICO
+  - 'SIMULACIONES '
+license: BSD-2-Clause
+date-released: '2025-10-09'
