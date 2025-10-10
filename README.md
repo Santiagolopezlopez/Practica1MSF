@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Santiago Lopez 22212260; correo institucional
 
 Modelado de Sistemas Fisiológicos
 
