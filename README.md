@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Santiago Lopez 22212260; correo institucional
+Santiago Lopez 22212260; l22212260@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
